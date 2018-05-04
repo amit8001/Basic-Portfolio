@@ -259,3 +259,44 @@ footer p{
     height: 4px;
     padding-top: 3px;
 }
+form label{
+    font-size: 18px;
+    display: block;
+}
+
+form input {
+    width: 95%;
+    display: block;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+    padding: 4px;
+    margin-top: 7px;
+}
+form{
+    margin-top: 30px;
+    margin-left: 22px;
+}
+#txtarea_message{
+    width: 95%;
+    display: block;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+    padding-top: 5px;
+    margin-top: 5px;
+    height: 100px;
+}
+.mainSection_contact {
+    clear: both;
+    background-color: #ffffff;
+    width: 570px;
+    margin-top: 15px;
+    margin-left: 396px;
+    height: 450px;
+    border-color: #dddddd;
+}
+button{
+    width:80px;
+    height: 30px;
+    background-color: teal;
+    color: snow;
+}
